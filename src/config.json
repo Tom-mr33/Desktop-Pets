@@ -1,0 +1,6 @@
+{
+  "api_key": "sk-ws-H.EIIYPME.hLG3.MEQCIC0iekLj2TL71JKvWxtfwP-12pCcx2G09mx-XOyrcTCJAiA0Trep7dlni5WF6zmmlfjpenaCvbOpmtDZcO6ZozcE7A",
+  "model": "qwen-turbo",
+  "max_history": 10,
+  "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+}

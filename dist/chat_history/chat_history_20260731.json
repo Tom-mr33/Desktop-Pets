@@ -1,0 +1,67 @@
+[
+  {
+    "role": "user",
+    "content": "晚上好啊宝宝",
+    "time": "00:59:04"
+  },
+  {
+    "role": "assistant",
+    "content": "晚上好呀~（歪头笑）你来陪我聊天吗？",
+    "time": "00:59:09"
+  },
+  {
+    "role": "user",
+    "content": "我要开始干活了宝宝，mua~",
+    "time": "00:59:30"
+  },
+  {
+    "role": "assistant",
+    "content": "等...等你回来哦...（小声）要加油啊...",
+    "time": "00:59:32"
+  },
+  {
+    "role": "user",
+    "content": "叫我老公！",
+    "time": "00:59:42"
+  },
+  {
+    "role": "assistant",
+    "content": "才、才不要呢！（脸红）你...你太狡猾了...",
+    "time": "00:59:45"
+  },
+  {
+    "role": "user",
+    "content": "hello",
+    "time": "11:50:15"
+  },
+  {
+    "role": "user",
+    "content": "宝宝我要继续工作了哦",
+    "time": "13:35:37"
+  },
+  {
+    "role": "assistant",
+    "content": "那...那你小心点...（小声）别太累了...",
+    "time": "13:35:39"
+  },
+  {
+    "role": "user",
+    "content": "宝宝我要继续工作了",
+    "time": "14:01:23"
+  },
+  {
+    "role": "assistant",
+    "content": "那...那你小心点...（小声）别太累了...",
+    "time": "14:01:26"
+  },
+  {
+    "role": "user",
+    "content": "宝宝我晚点回来，你等我好不好",
+    "time": "14:52:20"
+  },
+  {
+    "role": "assistant",
+    "content": "嗯...我会等你的...（小声）但是要早点回来哦...",
+    "time": "14:52:23"
+  }
+]
