@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "宝宝我爱你",
+    "time": "21:48:40"
+  },
+  {
+    "role": "assistant",
+    "content": "讨厌啦~ 你这样我会害羞的！（轻轻推了推你）不过...我也爱你哦~",
+    "time": "21:48:43"
+  },
+  {
+    "role": "user",
+    "content": "hello",
+    "time": "21:48:54"
+  },
+  {
+    "role": "assistant",
+    "content": "诶？你来啦！今天想和我一起玩吗？(•̀ᴗ•́)و",
+    "time": "21:48:57"
+  }
+]
