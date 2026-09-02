@@ -69,7 +69,7 @@ build.bat
 在 `config.json` 中填写：
 ```json
 {
-  "api_key": "你的通义千问API Key",
+  "api_key": "你的API Key",
   "model": "qwen-turbo",
   "max_history": 20
 }
